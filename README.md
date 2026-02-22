@@ -46,7 +46,7 @@ I am eager to learn how professional software is built and am actively looking f
 * **Description:** A responsive web storefront designed for a local clothing brand.
 * **Key Features:** Built using HTML, CSS, and JavaScript to demonstrate UI/UX principles and interactive DOM manipulation.
 
-### 🧮 Java Desktop Calculator
+### 🧮 [Java Desktop Calculator](https://github.com/theestarboy/java-calculator-project)
 * **Description:** A functional desktop calculator application.
 * **Key Features:** Demonstrates event-driven programming and graphical user interfaces (GUI) built in Java.
 
