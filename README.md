@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Vincent Muthoni 👋</h1>
-<h3 align="center">Computer Science Student | Software Developer | Actively Seeking Industrial Attachment</h3>
+<h1 align="center">Hi there, I'm Vincent Fundi 👋</h1>
+<h3 align="center">2nd Year Computer Science Student | Actively Seeking Industrial Attachment</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vincent-muthoni-67aa00354/" target="_blank">
@@ -11,14 +11,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science** student with a strong passion for bridging the gap between deep computing theory and practical, real-world software. While my degree has given me a rigorous foundation in algorithms, memory management, and data structures, I spend my time outside of class actually building systems that solve business problems. 
+I am a **second-year Computer Science** student with a strong passion for taking what I learn in the classroom and applying it to real-world projects. My coursework is currently giving me a rigorous foundation in algorithms, logic, and data structures, and I spend my free time translating that theory into functional code. 
 
-I don't just write code that passes exams; I write functional applications using Object-Oriented principles, from low-level C++ terminal applications to interactive Java GUIs and responsive web frontends. 
+I am eager to learn how professional software is built and am actively looking for an environment where I can be mentored while contributing to a real engineering team.
 
-* 🎓 **Currently studying:** Computer Science
+* 🎓 **Currently studying:** 2nd Year Computer Science
 * 💼 **Open to:** Software Engineering Internships & Industrial Attachments
-* 🌱 **Currently learning:** Advanced software architecture and modern deployment practices
-* ⚡ **Fun Fact:** I love taking complex backend logic and turning it into seamless user experiences.
+* 🌱 **Currently learning:** Core data structures, object-oriented design, and building full applications.
+* ⚡ **Fun Fact:** I love the challenge of debugging a complex C++ project!
 
 ---
 
@@ -39,26 +39,18 @@ I don't just write code that passes exams; I write functional applications using
 ## 🚀 Featured Projects
 
 ### 💳 [POS Payment Processing System (C++)](https://github.com/theestarboy/pos-payment-system-cpp)
-* **Description:** An Object-Oriented Point of Sale terminal application that simulates a real-world checkout environment. 
-* **Key Features:** Handles cash, card, and mobile payments. Features credit card validation algorithms, dynamic memory management to prevent memory leaks, and automated file I/O to permanently log transaction histories (`transactions.txt`).
+* **Description:** An Object-Oriented Point of Sale terminal application that simulates a checkout environment. 
+* **Key Features:** Handles cash, card, and mobile payments. Utilizes memory management, file I/O to save transaction logs, and basic credit card validation logic.
 
 ### 🛒 Fashique E-Commerce Frontend
-* **Description:** A modern, highly responsive web storefront designed for a local clothing brand.
-* **Key Features:** Built from scratch using HTML, CSS, and JavaScript. Demonstrates strong UI/UX principles, CSS Flexbox/Grid layouts, and interactive DOM manipulation.
+* **Description:** A responsive web storefront designed for a local clothing brand.
+* **Key Features:** Built using HTML, CSS, and JavaScript to demonstrate UI/UX principles and interactive DOM manipulation.
 
 ### 🧮 Java Desktop Calculator
-* **Description:** A fully functional desktop calculator application.
+* **Description:** A functional desktop calculator application.
 * **Key Features:** Demonstrates event-driven programming and graphical user interfaces (GUI) built in Java.
 
 ### 💻 Automated Billing Utilities (C)
-* **Description:** A suite of financial calculation tools.
-* **Key Features:** Built using standard C to demonstrate foundational logic, control flow, loops, and algorithmic problem-solving.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theestarboy&show_icons=true&theme=radical&hide_border=true" alt="Vincent's GitHub Stats" />
-</p>
+* **Description:** A suite of basic financial calculation tools.
+* **Key Features:** Built using standard C to practice foundational logic, control flow, loops, and algorithmic problem-solving.
 
