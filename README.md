@@ -19,7 +19,7 @@ I am a **second-year Computer Science** student with a strong passion for taking
 I am eager to learn how professional software is built and am actively looking for an environment where I can be mentored while contributing to a real engineering team.
 
 * 🎓 **Currently studying:** 2nd Year Computer Science
-* 💼 **Open to:** Software Engineering Internships & Industrial Attachments
+* 💼 **Open to:** Software Engineering Internships, Industrial Attachments & many other broad Tech based interships.
 * 🌱 **Currently learning:** Core data structures, object-oriented design, and building full applications.
 * ⚡ **Fun Fact:** I love the challenge of debugging programs!
 
