@@ -18,7 +18,7 @@ I am eager to learn how professional software is built and am actively looking f
 * 🎓 **Currently studying:** 2nd Year Computer Science
 * 💼 **Open to:** Software Engineering Internships & Industrial Attachments
 * 🌱 **Currently learning:** Core data structures, object-oriented design, and building full applications.
-* ⚡ **Fun Fact:** I love the challenge of debugging a complex C++ project!
+* ⚡ **Fun Fact:** I love the challenge of debugging programs!
 
 ---
 
@@ -38,7 +38,7 @@ I am eager to learn how professional software is built and am actively looking f
 
 ## 🚀 Featured Projects
 
-### 💳 [POS Payment Processing System (C++)](https://github.com/theestarboy/pos-payment-system-cpp)
+### 💳 [POS Payment Processing System (C++)](https://github.com/theestarboy/A-modern-POINT-OF-SALE-payment-processing-system-made-using-c-programming-language)
 * **Description:** An Object-Oriented Point of Sale terminal application that simulates a checkout environment. 
 * **Key Features:** Handles cash, card, and mobile payments. Utilizes memory management, file I/O to save transaction logs, and basic credit card validation logic.
 
