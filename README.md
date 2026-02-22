@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent Muthoni! 👋
+# Hi there, I'm Vincent Fundi Muthoni! 👋
 
 ### 👨‍💻 About Me
 I am a 2nd-year Computer Science student at Kirinyaga University with a strong foundation in both software engineering and frontend web development. I love bridging the gap between hardware systems and user-facing applications. 
