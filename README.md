@@ -8,9 +8,6 @@
   <a href="mailto:muthonivincent15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="tel:+254745334743" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
-  </a>
 </p>
 
 ---
