@@ -42,7 +42,7 @@ I am eager to learn how professional software is built and am actively looking f
 * **Description:** An Object-Oriented Point of Sale terminal application that simulates a checkout environment. 
 * **Key Features:** Handles cash, card, and mobile payments. Utilizes memory management, file I/O to save transaction logs, and basic credit card validation logic.
 
-### 🛒 Fashique E-Commerce Frontend
+### 🛒 [Fashique E-Commerce Frontend](https://github.com/theestarboy/fashique-fashion-clothing-e-commerse-project)
 * **Description:** A responsive web storefront designed for a local clothing brand.
 * **Key Features:** Built using HTML, CSS, and JavaScript to demonstrate UI/UX principles and interactive DOM manipulation.
 
