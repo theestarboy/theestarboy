@@ -1,22 +1,64 @@
-# Hi there, I'm Vincent Fundi Muthoni! 👋
+<h1 align="center">Hi there, I'm Vincent Muthoni 👋</h1>
+<h3 align="center">Computer Science Student | Software Developer | Actively Seeking Industrial Attachment</h3>
 
-### 👨‍💻 About Me
-I am a Computer Science student at Kirinyaga University with a strong foundation in software engineering and frontend web development. I am passionate about bridging the gap between complex backend logic and dynamic, user-facing applications. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vincent-muthoni-67aa00354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-My ambition is to continuously level up my technical skills, write clean and maintainable code, and build impactful software solutions that solve real-world problems. Whether I am designing an interactive e-commerce interface or structuring an object-oriented desktop application, I thrive on turning complex challenges into elegant digital experiences.
+---
 
-### 🛠️ My Tech Stack
-* **Languages:** Java, C, C++, JavaScript
-* **Web Development:** HTML5, CSS3 (Vanilla JS, CSS Grid/Flexbox)
-* **Databases:** MySQL
-* **Tools:** Git, GitHub, VS Code, NetBeans, IntelliJ
+## 👨‍💻 About Me
 
-### 🚀 Featured Projects
-* 🛍️ **[Fashique E-Commerce Frontend](#):** A fully responsive, interactive web store built from scratch with pure Vanilla JavaScript and CSS3. Features a custom client-side shopping cart and light/dark mode toggling.
-* 🧮 **[Java GUI Calculator](#):** A desktop application built with Java Swing and AWT, featuring core OOP principles, robust state management, and division-by-zero error handling.
-* 📚 **Student Management System:** A C++ console application utilizing OOP design and a MySQL database for complete CRUD operations on student records.
+I am a **Computer Science** student with a strong passion for bridging the gap between deep computing theory and practical, real-world software. While my degree has given me a rigorous foundation in algorithms, memory management, and data structures, I spend my time outside of class actually building systems that solve business problems. 
 
-### 📫 Let's Connect!
-* **Email:** muthonivincent15@gmail.com
-* **LinkedIn:** [Vincent Muthoni](https://www.linkedin.com/in/vincent-muthoni-67aa00354/)
+I don't just write code that passes exams; I write functional applications using Object-Oriented principles, from low-level C++ terminal applications to interactive Java GUIs and responsive web frontends. 
+
+* 🎓 **Currently studying:** Computer Science
+* 💼 **Open to:** Software Engineering Internships & Industrial Attachments
+* 🌱 **Currently learning:** Advanced software architecture and modern deployment practices
+* ⚡ **Fun Fact:** I love taking complex backend logic and turning it into seamless user experiences.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 [POS Payment Processing System (C++)](https://github.com/theestarboy/pos-payment-system-cpp)
+* **Description:** An Object-Oriented Point of Sale terminal application that simulates a real-world checkout environment. 
+* **Key Features:** Handles cash, card, and mobile payments. Features credit card validation algorithms, dynamic memory management to prevent memory leaks, and automated file I/O to permanently log transaction histories (`transactions.txt`).
+
+### 🛒 Fashique E-Commerce Frontend
+* **Description:** A modern, highly responsive web storefront designed for a local clothing brand.
+* **Key Features:** Built from scratch using HTML, CSS, and JavaScript. Demonstrates strong UI/UX principles, CSS Flexbox/Grid layouts, and interactive DOM manipulation.
+
+### 🧮 Java Desktop Calculator
+* **Description:** A fully functional desktop calculator application.
+* **Key Features:** Demonstrates event-driven programming and graphical user interfaces (GUI) built in Java.
+
+### 💻 Automated Billing Utilities (C)
+* **Description:** A suite of financial calculation tools.
+* **Key Features:** Built using standard C to demonstrate foundational logic, control flow, loops, and algorithmic problem-solving.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theestarboy&show_icons=true&theme=radical&hide_border=true" alt="Vincent's GitHub Stats" />
+</p>
 
