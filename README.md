@@ -50,7 +50,7 @@ I am eager to learn how professional software is built and am actively looking f
 * **Description:** A functional desktop calculator application.
 * **Key Features:** Demonstrates event-driven programming and graphical user interfaces (GUI) built in Java.
 
-### 💻 Automated Billing Utilities (C)
+### 💻 [Automated Utilities using (C)](https://github.com/theestarboy/-some-of-the-C-real-life-programs-i-made-when-i-started-programming)
 * **Description:** A suite of basic financial calculation tools.
 * **Key Features:** Built using standard C to practice foundational logic, control flow, loops, and algorithmic problem-solving.
 
