@@ -5,6 +5,12 @@
   <a href="https://www.linkedin.com/in/vincent-muthoni-67aa00354/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:muthonivincent15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="tel:+254745334743" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+  </a>
 </p>
 
 ---
@@ -53,4 +59,14 @@ I am eager to learn how professional software is built and am actively looking f
 ### 💻 [Automated Utilities using (C)](https://github.com/theestarboy/-some-of-the-C-real-life-programs-i-made-when-i-started-programming)
 * **Description:** A suite of basic financial calculation tools.
 * **Key Features:** Built using standard C to practice foundational logic, control flow, loops, and algorithmic problem-solving.
+
+---
+
+## 📫 Let's Connect!
+
+If you are looking for a dedicated and fast-learning student for an industrial attachment or internship, I would love to hear from you!
+
+* 📧 **Email:** [muthonivincent15@gmail.com](mailto:muthonivincent15@gmail.com)
+* 📞 **Phone / WhatsApp:** +254 745 334 743
+* 💼 **LinkedIn:** [Vincent Muthoni](https://www.linkedin.com/in/vincent-muthoni-67aa00354/)
 
